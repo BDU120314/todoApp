@@ -1,2 +1,2 @@
 # todoApp
-# stack full stack next js 13  using mongodb
+# full stack next js 13  using mongodb
